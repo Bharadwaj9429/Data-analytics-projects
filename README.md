@@ -1,4 +1,4 @@
-# Data-analytics-projects
+# Data-analytics-3 projects
 **1. Parkinson’s Disease Classification** : Parkinson's is a disease that can cause a
 nervous system disorder and affects the movement. Parkinson dataset contains
 biomedical measurements, 195 records of people with 23 different attributes. This
